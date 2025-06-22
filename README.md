@@ -114,7 +114,7 @@ The cart and payment services both have Prometheus metric endpoints. These are a
 
 * Counter of the number of items added to the cart
 
-The payment services provides:
+The payment services provides: 
 
 * Counter of the number of items perchased
 * Histogram of the total number of items in each cart
