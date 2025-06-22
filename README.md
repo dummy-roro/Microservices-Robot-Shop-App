@@ -5,6 +5,7 @@ Stan's Robot Shop is a sample microservice application you can use as a sandbox 
 You can get more detailed information from my [blog post](https://www.instana.com/blog/stans-robot-shop-sample-microservice-application/) about this sample microservice application.
 
 This sample microservice application has been built using these technologies:
+ 
 - NodeJS ([Express](http://expressjs.com/))
 - Java ([Spring Boot](https://spring.io/))
 - Python ([Flask](http://flask.pocoo.org))
